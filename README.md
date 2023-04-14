@@ -1,6 +1,9 @@
 # `peng-move`
 
 This is the companion app to my Svelte Summit Spring talk "Svelte in Motion".
+https://www.youtube.com/watch?v=Exd4nuSBooc
+
+https://peng-move.vercel.app/
 
 If you wish to follow along with the talk, then use the [`start` branch](https://github.com/pngwn/peng-move/tree/start).
 
